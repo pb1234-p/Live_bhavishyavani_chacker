@@ -1,0 +1,120 @@
+table {
+			border: 1px solid black;
+		margin-left: auto;
+			margin-right: auto;
+		}
+
+		input[type="button"] {
+			width:100%;
+			padding: 10px 20px;
+			background-color: green;
+			color: white;
+			font-size: 5px;
+			font-weight: bold;
+			border: none;
+			border-radius: 2px;
+		}
+
+		input[type="text"] {
+			padding: 10px 5px;
+			font-size: 10px;
+			font-weight: bold;
+			border: none;
+			border-radius: 2px;
+			border: 2px solid black;
+		}
+  body {
+background-image: url('/back.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+  }
+     div {
+      width: auto;
+      height: auto;
+      background-color: #FFD700;
+      border: 1px red;
+      padding: 10px;
+      margin: auto;
+      text-align: center;
+      color: black;
+      font-weight: bold;
+      font-size: 35px;
+     		text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+
+     		
+    }
+  #ti { color:yellow;
+  		text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+   #ho { color: LightCyan;
+   		text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    
+   }
+   #customers {
+font-family: Arial, Helvetica, sans-serif;
+border-collapse: collapse;
+width: 100%;
+   }
+#customers td, customers th {
+border: 1px solid #ddd;
+padding: 8px;
+ color: Aquamarine;
+ font-weight: bold;
+}
+#customers tr:nth-child(even) {background-color: #121212;}
+#customers tr:hover {background-color: #ddd;}
+#customers th {
+padding-top: 12px;
+padding-bottom: 12px;
+text-align: center;
+background-color: #64AA60;
+color: white;
+}
+   #cust {
+font-family: Arial, Helvetica, sans-serif;
+border-collapse: collapse;
+width: 100%;
+   }
+    #cust td, customers th {
+border: 1px solid #ddd;
+padding: 8px;
+ color: Aquamarine;
+ font-weight: bold;
+}
+   #cust td:nth-child(9) {background-color: #121212;}
+#cust td:hover {background-color: #ddd;}
+  #cust td {text-align: center;
+   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+   #hh { color: yellow;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+   }
+   #cu {
+font-family: Arial, Helvetica, sans-serif;
+border-collapse: collapse;
+width: 100%;
+   }
+#cu td, customers th {
+border: 1px solid #ddd;
+padding: 8px;
+ color: Aquamarine;
+ font-weight: bold;
+}
+#cu tr:nth-child(even) {background-color: #121212;}
+#cu th {
+padding-top: 12px;
+padding-bottom: 12px;
+text-align: center;
+background-color: #64AA60;
+color: white;
+}
+		#oo {
+				color:gold;
+				text-align:center;
+				text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+				
+		}
+#pk {
+		color:inherit
+}
